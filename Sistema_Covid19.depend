@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638124195 source:c:\users\Ângelo francisco\documents\unip\sistema_covid19\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
